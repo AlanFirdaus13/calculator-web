@@ -1,2 +1,2 @@
-# calculator-web
-program calculator berbasis website
+# calculator_progate
+mini project progate
